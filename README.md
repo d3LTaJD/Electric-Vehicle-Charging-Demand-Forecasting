@@ -62,9 +62,3 @@ The project merges two datasets:
 This project provides a data-driven approach to manage EV charging infrastructure efficiently.  
 By integrating time-series forecasting with weather and temporal data, it helps predict demand patterns, ensuring balanced energy distribution and reduced grid stress.
 
----
-
-### 👨‍💻 Author
-**Jeet Dodia**  
-B.Tech – Computer Science (Big Data Analytics)  
-📧 jeetdodia12@gmail.com | 🌐 GitHub: [github.com/jeetdodia](https://github.com/jeetdodia)
